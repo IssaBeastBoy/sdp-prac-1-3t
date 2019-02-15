@@ -109,5 +109,5 @@ namespace Euler
             Console.ReadLine();
         }
     }
-    }
+}
 }

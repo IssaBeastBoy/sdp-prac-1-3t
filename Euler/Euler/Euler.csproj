@@ -4,7 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+<<<<<<< HEAD
     <ProjectGuid>{9DC2F84C-2B70-42DB-9A8E-4B2C3AAD05C7}</ProjectGuid>
+=======
+    <ProjectGuid>{F772B870-93A3-4997-8359-0B13075874FA}</ProjectGuid>
+>>>>>>> prime
     <OutputType>Exe</OutputType>
     <RootNamespace>Euler</RootNamespace>
     <AssemblyName>Euler</AssemblyName>
