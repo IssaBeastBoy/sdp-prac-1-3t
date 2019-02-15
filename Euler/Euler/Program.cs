@@ -26,7 +26,7 @@ namespace Euler
             }
 
             // print the result...
-            Console.WriteLine($"The sum is: {Total}. \n\n\nPress enter to exit...");
+            Console.WriteLine($"The sum is: {Total}. \n\n\nPress enter to continue...");
 
             // "Pause" The program...
             Console.ReadLine();
