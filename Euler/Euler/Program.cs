@@ -10,7 +10,6 @@ namespace Euler
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
             #region LizHack's Section
 
             // stores the total/sum
@@ -27,7 +26,11 @@ namespace Euler
             }
 
             // print the result...
+<<<<<<< HEAD
             Console.WriteLine($"The sum is: {Total}. \n\n\nPress enter to exit...");
+=======
+            Console.WriteLine($"The sum is: {Total}. \n\n\nPress enter to continue...");
+>>>>>>> 773c54a68166d56c6c2a24cd997253d9c5a7eb91
 
             // "Pause" The program...
             Console.ReadLine();
@@ -52,7 +55,8 @@ namespace Euler
             Console.WriteLine($"Answer >> {final}");
             string v = Console.ReadLine();// puasing to see the answers
 
-=======
+ 
+
             double i = 1; //The number to be compared
             double num = 0; //A placeholder
             bool uptotwnety = false; //Will check if it's divisable up to 20
@@ -80,7 +84,7 @@ namespace Euler
             Console.WriteLine($"{num}");
             Console.ReadLine();
 
->>>>>>> multiple
+
             //Robin's region
             double count = 1; //What will be divided
             bool uptotwenty = false; //Bool to check the number's eligability
@@ -107,6 +111,8 @@ namespace Euler
             }
             Console.WriteLine($"Smallest number divisable by 1-20 is: {count}");
             Console.ReadLine();
+
+
         }
     }
 }
